@@ -20,7 +20,7 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
-    "@babel/register": "^7.6.2",
+    "@babel/register": "^7.7.0",
     "browserslist": "^4.7.2",
     "caniuse-lite": "^1.0.30001004",
     "chalk": "^2.4.2",
